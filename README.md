@@ -10,3 +10,10 @@ A simple **C# Console Application** demonstrating **Dependency Injection (DI)** 
 - Implements **Dependency Injection** for different order processing services.
 - User **selects** the order type dynamically via **console input**.
 - **Loop validation** ensures users enter a valid choice before proceeding.
+
+Run the application using:
+```sh
+dotnet run
+
+
+
